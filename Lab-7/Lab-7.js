@@ -1,7 +1,3 @@
-// Ryan Patterson
-// Dennis Garay
-//Lab - 7
-
 // Vertex shader program
 var VSHADER_SOURCE =
   'attribute vec4 a_Position;\n' +
